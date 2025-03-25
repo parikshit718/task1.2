@@ -1,2 +1,5 @@
 node_modules/
 log
+nodes_modules?/
+node_modules/
+*log
